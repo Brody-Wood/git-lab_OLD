@@ -51,4 +51,45 @@ Untracked files:
         answers.md
 
 Answer 6.
+$ git status
+On branch master
 
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+        new file:   answers.md
+
+Answer 7.
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Answer 8.
+$ git log
+commit 93946bc0ef66c78ac1ac3b3d8facf171ba2250aa (HEAD -> master)
+Author: Brody-Wood <bw075916@ohio.edu>
+Date:   Fri May 17 20:30:45 2019 -0400
+
+    Initial commit
+
+Answer 9.
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Answer 10.
+No
+
+Answer 11.
+The push was rejected becasue my file is outdated.
+
+Answer 12.
+Yes
+
+Answer 13.
+./  ../  .git/  .gitignore  README.md
